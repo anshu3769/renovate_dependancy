@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "renovate_dependancy"
+version = "0.1.0"
+description = ""
+authors = ["Anshu Tomar <atomar@keplergrp.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+boto3 = "^1.14.8"
+jinja2 = "^3.0.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
