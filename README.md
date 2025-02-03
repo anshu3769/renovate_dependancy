@@ -1,2 +1,2 @@
 # renovate_dependancy
-repo to test renovate app
+Repo to test renovate app
